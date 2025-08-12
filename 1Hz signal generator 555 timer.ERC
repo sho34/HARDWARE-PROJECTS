@@ -1,0 +1,24 @@
+#I:ISIS Release 8.13.00 (Build 31525) (C) Labcenter Electronics 1990- 2021.
+#I:Compiling design 'C:\Users\Gumball\Desktop\common-files\1Hz signal generator 555 timer.pdsprj'.
+%C=0002,00000006
+
+ELECTRICAL RULES CHECK
+======================
+Design:   1Hz signal generator 555 timer.pdsprj
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  18 Apr,2024
+Modified: 24 Apr,2024
+
+UNDRIVEN: U1,CV (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0007,B (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0007,C (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0007,D (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0008,B (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0008,C (Input)
+UNDRIVEN: $IOSCILLOSCOPE#0008,D (Input)
+
+Netlist generated OK.
+ERC errors found.
+
